@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-08-28 01:35:00 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 02:24:50 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 04:33:43 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 06:50:44 --> 404 Page Not Found: Auth/theme
+ERROR - 2019-08-28 07:04:59 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 07:37:33 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 09:06:04 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 09:57:40 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 09:57:41 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 09:57:42 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 09:57:43 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 09:57:48 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 09:57:49 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 09:57:50 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 09:57:51 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 10:03:36 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 10:03:39 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 17:31:01 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 21:47:41 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 21:47:41 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 21:47:41 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 21:47:41 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 21:47:41 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 21:47:41 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 21:47:41 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 21:47:41 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 21:47:41 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 21:47:41 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 21:47:41 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 22:00:44 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 23:10:37 --> 404 Page Not Found: /index
+ERROR - 2019-08-28 23:10:39 --> 404 Page Not Found: /index

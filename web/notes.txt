@@ -1,0 +1,24 @@
+http://localhost/yudistira/Antihoax/tags/pki/1234567890123456
+
+
+API Report
+* GET api/report/get_total/[key]
+* GET api/report/[key] eg: http://localhost/yudistira/api/report/1234567890123456
+* GET api/report/10/offset/0/[key] -> 10 pertama eg:http://localhost/yudistira/api/report/10/offset/0/1234567890123456
+* GET api/report/10/offset/10[key] -> 11 sampai 20 sda
+* GET api/report/1/[key] -> where id = 1 eg: http://localhost/yudistira/api/report/1/1234567890123456
+* GET api/report/status/{open/in-progress/done}/num/offset/0
+* GET api/report/priority/{normal/medium/high}/num/offset/10
+*
+* POST api/report/[key] -> insert
+* POST api/report/1/[key] -> update where id=1
+
+
+API Antihoax
+* GET api/antihoax/get_total/[key]
+* GET api/antihoax/[key] eg: http://localhost/yudistira/api/antihoax/1234567890123456
+* GET api/antihoax/10/offset/0/[key] -> 10 pertama eg:http://localhost/yudistira/api/antihoax/10/offset/0/1234567890123456
+* GET api/antihoax/10/offset/10[key] -> 11 sampai 20 sda
+* GET api/antihoax/1/[key] -> where id = 1 eg: http://localhost/yudistira/api/antihoax/1/1234567890123456
+* GET api/antihoax/status/{open/in-progress/done}/num/offset/0
+* GET api/antihoax/priority/{normal/medium/high}/num/offset/10

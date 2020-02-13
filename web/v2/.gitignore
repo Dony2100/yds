@@ -1,0 +1,13 @@
+.DS_Store
+vendor
+.idea
+.phpintel
+application/config/config.php
+application/config/database.php
+application/logs
+composer.lock
+theme/package-lock.json
+uploads
+access_log
+error_log
+*.sql
